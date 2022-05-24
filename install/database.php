@@ -117,7 +117,7 @@ INSERT INTO `p_categorias` (`cid`, `c_orden`, `c_nombre`, `c_seo`, `c_img`) VALU
 (27, 27, 'Recetas y Cocina', 'recetasycocina', 'cake.png'),
 (28, 28, 'Salud y Bienestar', 'saludybienestar', 'heart.png'),
 (29, 29, 'Solidaridad', 'solidaridad', 'salva.png'),
-(30, 30, 'Taringa!', 'taringa', 'tscript.png'),
+(30, 30, 'PHPost', 'phpost', 'phpost.png'),
 (31, 31, 'Turismo', 'turismo', 'brujula.png'),
 (32, 32, 'TV, Peliculas y series', 'tvpeliculasyseries', 'tv.png'),
 (33, 33, 'Videos On-line', 'videosonline', 'film.png');";
